@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 **Favour Chukwu** | Data Analyst | Full-Stack Developer | Problem Solver
+### 🚀 **Favour Chukwu** | Data Analyst | Problem Solver |Credit & Risk Management Professional | Portfolio Governance | Data-Driven Lending Decisions
 
 <p>
     <a href="https://www.linkedin.com/in/chidozie-chukwu-145690162" target="_blank">
